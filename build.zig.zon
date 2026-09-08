@@ -1,0 +1,7 @@
+.{
+    .name = .zinnia,
+    .version = "0.0.1",
+    .minimum_zig_version = "0.16.0",
+    .paths = .{""},
+    .fingerprint = 0x98637d02b3281d28,
+}
